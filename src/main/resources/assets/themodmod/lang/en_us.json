@@ -1,0 +1,11 @@
+{
+  "item.themodmod.flintassium_ingot": "Flintassium Ingot",
+  "item.themodmod.flintassium_chunk": "Raw Flintassium",
+  "item.themodmod.flintassium_chunk.tooltip": "Smelt this to create a shiny ingot.",
+  "item.themodmod.flintassium_helmet": "Flintassium Helmet",
+  "item.themodmod.flintassium_chestplate": "Flintassium Chestplate",
+  "item.themodmod.flintassium_leggings": "Flintassium Leggings",
+  "item.themodmod.flintassium_boots": "Flintassium Boots",
+  "item.themodmod.amogium": "Amogium Crystal",
+  "item.themodmod.amogium.tooltip": "They're minerals, not rocks."
+}

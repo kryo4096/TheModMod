@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "themodmod:flintassium_chunk"
+  },
+  "result": "themodmod:flintassium_ingot",
+  "experience": 0.15
+}

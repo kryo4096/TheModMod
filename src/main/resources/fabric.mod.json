@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "themodmod",
+  "version": "${version}",
+  "name": "TheModMod",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/TheModMod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "kryo4096.themodmod.client.TheModModClient"
+    ],
+    "main": [
+      "kryo4096.themodmod.TheModMod"
+    ]
+  },
+  "mixins": [
+    "themodmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.8",
+    "fabric": "*",
+    "minecraft": "1.18"
+  }
+}
